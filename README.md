@@ -22,13 +22,13 @@
 `Python` `Java` `SQL` `JavaScript`
 
 **AI & Data Science**:  
-`TensorFlow` `Keras` `PyTorch` `Scikit-learn` `OpenCV` `YOLO` `Pandas` `NumPy` `Matplotlib`
+`TensorFlow` `Keras` `PyTorch` `Scikit-learn` `OpenCV` `YOLO` `Pandas` `NumPy` `Matplotlib`,...
 
 **Big Data & DBs**:  
-`Hadoop` `Hive` `Sqoop` `PostgreSQL` `MySQL` `MongoDB`
+`Hadoop` `Hive` `Sqoop`,...
 
 **Web & Tools**:  
-`Spring Boot` `ASP.NET` `JEE` `Streamlit` `Git` `Power BI` `VMware`
+`Spring Boot` `ASP.NET` `JEE` `Angular`,...
 
 ---
 
@@ -63,14 +63,6 @@
 - 📧 Email: [badr.jlil@outlook.com](mailto:badr.jlil@outlook.com)  
 - 💼 LinkedIn: [linkedin.com/in/badrjlil](https://www.linkedin.com/in/badrjlil)  
 - 🌍 Based in: Casablanca, Morocco
-
----
-
-## 👁️ Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=badrjlil&color=blueviolet&style=for-the-badge" alt="profile views">
-</p>
 
 ---
 
