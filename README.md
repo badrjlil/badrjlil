@@ -41,23 +41,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=badrjlil&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badrjlil&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-## 📅 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=badrjlil&theme=react-dark" alt="GitHub Activity Graph" />
-</p>
-
----
-
 ## 📬 Contact Me
 
 - 📧 Email: [badr.jlil@outlook.com](mailto:badr.jlil@outlook.com)  
