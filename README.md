@@ -1,6 +1,6 @@
 <!-- Typing Effect -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B+I'm+Badr+JLIL;AI+Engineer+%7C+Data+Scientist;Final-Year+Computer+Engineering+Student;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B+I'm+Badr+JLIL;Data+Scientist+%7C+AI+Engineer;Final-Year+Computer+Engineering+Student;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </h1>
 
 ---
